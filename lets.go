@@ -20,3 +20,8 @@ func GetMax(a, b int) int {
 	return b
 }
 
+func main() {
+	c1 := Circle{2}
+	fmt.Println(c1.erea())
+}
+
