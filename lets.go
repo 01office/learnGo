@@ -25,3 +25,5 @@ func main() {
 	fmt.Println(c1.erea())
 }
 
+// http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/
+
